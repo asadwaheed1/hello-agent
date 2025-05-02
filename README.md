@@ -1,7 +1,7 @@
 
 # Agent Assignment PIAIC 255779
 
-**Assalamualikum! TO run the project you must have python installed and uv installed.**
+**Assalamualikum! To run the project you must have python installed and uv installed.**
 
 
 ## How to run
@@ -9,11 +9,11 @@
 - Open your terminal in project folder in correct path also make sure your path is ~/hello-agent and not in any parent folder.
 - If you downloaded the code from github virtual envorinment should already be created if it's not use command uv venv (optional)
 - Activate virtual envorinment with .venv\Scripts\activate
-- Make sure you have installed all dependencies mensioned in pyproject.toml file
+- Make sure you have installed all dependencies mentioned in pyproject.toml file
 - Create a .env file in project root and add your GEMINI_API_KEY in it (Important)
 - Run the project with "uv run run-agent"
 
 
 ## Screenshots
 
-![App Screenshot](https://github.com/user-attachments/assets/59eb8e2a-d11a-44c2-b12c-fb7f2aa0fc77)
+![App Screenshot](https://github.com/user-attachments/assets/0103625b-2a6d-4bd5-bd0a-4f9293fc793b)
